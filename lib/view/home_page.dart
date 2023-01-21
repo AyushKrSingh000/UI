@@ -3,7 +3,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:ui2/constants.dart';
 
-import 'widgets/house_box.dart';
+import '../widgets/house_box.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});

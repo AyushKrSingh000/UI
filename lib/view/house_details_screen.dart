@@ -1,9 +1,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-import 'constants.dart';
-import 'widgets/house_info_box.dart';
-import 'widgets/icon_box.dart';
+import '../constants.dart';
+import '../widgets/house_info_box.dart';
+import '../widgets/icon_box.dart';
 
 class HouseDetailScreen extends StatefulWidget {
   const HouseDetailScreen({super.key});
